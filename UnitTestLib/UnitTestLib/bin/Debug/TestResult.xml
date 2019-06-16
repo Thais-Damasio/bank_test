@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\bin\Debug\UnitTestLib.dll" total="11" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2019-06-16" time="01:15:05">
+  <environment nunit-version="2.7.0.0" clr-version="2.0.50727.8941" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.7.0\bin" machine-name="DESKTOP-4NS4GGV" user="thais" user-domain="DESKTOP-4NS4GGV" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite type="Assembly" name="C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\bin\Debug\UnitTestLib.dll" executed="True" result="Success" success="True" time="0.475" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="UnitTestLib" executed="True" result="Success" success="True" time="0.467" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Teste_ContaCorrente" executed="True" result="Success" success="True" time="0.026" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TesteConta_Classe" executed="True" result="Success" success="True" time="0.025" asserts="0">
+                <results>
+                  <test-case name="UnitTestLib.Teste_ContaCorrente.TesteConta_Classe.DepositoCorreto" description="Teste5: O método depositar deve funcionar corretamente." executed="True" result="Success" success="True" time="0.010" asserts="1" />
+                  <test-case name="UnitTestLib.Teste_ContaCorrente.TesteConta_Classe.DepositoMenorQue_0" description="Teste4: O método depositar da conta corrente não deve aceitar valores negativos ou nulos." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="UnitTestLib.Teste_ContaCorrente.TesteConta_Classe.SaqueCorreto" description="Teste2: O método sacar deve funcionar corretamente." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="UnitTestLib.Teste_ContaCorrente.TesteConta_Classe.SaqueMaiorQue_Saldo" description="Teste3: O método sacar da conta corrente não pode permitir saques maiores que o saldo." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="UnitTestLib.Teste_ContaCorrente.TesteConta_Classe.SaqueMenorQue_0" description="Teste1: O método depositar da conta corrente não deve aceitar valores negativos ou nulos." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TesteConta_Limite" executed="True" result="Success" success="True" time="0.437" asserts="0">
+            <results>
+              <test-case name="UnitTestLib.TesteConta_Limite.DepositoIgualA_0" description="Teste5: Teste limite Deposito." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="UnitTestLib.TesteConta_Limite.DepositoMenorQue_0" description="Teste6: Teste limite depósito." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="UnitTestLib.TesteConta_Limite.SaqueIgualA_0" description="Teste1: Limite inferior do método sacar." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="UnitTestLib.TesteConta_Limite.SaqueIgualA_500" description="Teste3: Limite superior do método sacar." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="UnitTestLib.TesteConta_Limite.SaqueIgualA_501" description="Teste4: Limite superior do método sacar." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="UnitTestLib.TesteConta_Limite.SaqueIgualA_N1" description="Teste2: Limite inferior do método sacar." executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

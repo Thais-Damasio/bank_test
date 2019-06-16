@@ -1,0 +1,12 @@
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\bin\Debug\UnitTestLib.dll
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\bin\Debug\UnitTestLib.pdb
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\bin\Debug\Bank.dll
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\bin\Debug\nunit.framework.dll
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\bin\Debug\Bank.pdb
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\bin\Debug\nunit.framework.xml
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\obj\Debug\UnitTestLib.csprojAssemblyReference.cache
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\obj\Debug\UnitTestLib.csproj.CoreCompileInputs.cache
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\obj\Debug\UnitTestLib.csproj.CopyComplete
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\obj\Debug\UnitTestLib.dll
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\obj\Debug\UnitTestLib.pdb
+C:\Users\thais\Documents\Trabalho de Teste\UnitTestLib\UnitTestLib\bin\Debug\Bank.dll.config

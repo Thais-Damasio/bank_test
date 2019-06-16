@@ -1,0 +1,14 @@
+C:\Users\thais\Documents\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\thais\Documents\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\thais\Documents\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\thais\Documents\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\thais\Documents\Bank\Bank\bin\Debug\Bank.dll.config
+C:\Users\thais\Documents\Bank\Bank\bin\Debug\Bank.dll
+C:\Users\thais\Documents\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\thais\Documents\Trabalho de Teste\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\thais\Documents\Trabalho de Teste\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\thais\Documents\Trabalho de Teste\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\thais\Documents\Trabalho de Teste\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\thais\Documents\Trabalho de Teste\Bank\Bank\bin\Debug\Bank.dll.config
+C:\Users\thais\Documents\Trabalho de Teste\Bank\Bank\bin\Debug\Bank.dll
+C:\Users\thais\Documents\Trabalho de Teste\Bank\Bank\bin\Debug\Bank.pdb
