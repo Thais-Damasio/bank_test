@@ -1,5 +1,4 @@
 ﻿using NUnit.Framework;
-using System;
 using UnitTestLib.Mocks;
 
 namespace UnitTestLib.Teste_ContaCorrente

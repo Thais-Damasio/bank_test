@@ -46,7 +46,7 @@ namespace Bank
         public static void PrintIntro()
         {
             Console.Clear();
-            Console.WriteLine("### Banco MeuCash ###");
+            Console.WriteLine("### Bank ###");
             Console.WriteLine("Olá usuário! Digite e ação que deseja fazer:");
             Console.WriteLine("0 - Criar conta");
             Console.WriteLine("1 - Sacar");
